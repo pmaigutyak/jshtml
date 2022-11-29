@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pmaigutyak.jshtml.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pmaigutyak.jshtml.MyBundle
 
 class MyApplicationService {
 
